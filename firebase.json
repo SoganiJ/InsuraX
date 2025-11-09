@@ -1,0 +1,22 @@
+{
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": [
+    {
+      "codebase": "default",
+      "source": "functions",
+      "runtime": "python313",
+      "ignore": [
+      "venv",
+      "lib",
+      ".vscode",
+      "__pycache__",
+      "*.pyc"
+    ]
+    }
+  ]
+}

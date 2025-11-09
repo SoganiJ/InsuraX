@@ -1,0 +1,51 @@
+{
+  "property": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\property\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\property\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\property\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  },
+  "life": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\life\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\life\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\life\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  },
+  "automobile": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\automobile\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\automobile\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\automobile\\features.json",
+    "background_file": null,
+    "model_name": "XGBoost"
+  },
+  "crop": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\crop\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\crop\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\crop\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  },
+  "personal_accident": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\personal_accident\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\personal_accident\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\personal_accident\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  },
+  "travel": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\travel\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\travel\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\travel\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  },
+  "health": {
+    "model_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\health\\model.pkl",
+    "preprocessor_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\health\\preprocessor.pkl",
+    "features_file": "D:\\NOTES\\amrin notes\\ty project\\project-final\\insurance-fraud-ai\\functions\\deployment_package\\health\\features.json",
+    "background_file": null,
+    "model_name": "RandomForest"
+  }
+}

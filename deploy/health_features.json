@@ -1,0 +1,1 @@
+["insured_age", "insured_sex", "insured_occupation", "policy_state", "policy_annual_premium", "claim_amount", "sum_insured", "claim_amount_to_sum_insured_ratio", "previous_claims_count", "policy_renewal_status", "premium_payment_delays", "coverage_changes_before_claim", "policy_duration_days", "incident_to_claim_days", "claim_duration_days", "hospital_name", "treatment_details"]
