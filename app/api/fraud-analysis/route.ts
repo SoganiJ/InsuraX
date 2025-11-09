@@ -7,7 +7,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 // The actual Gemini processing is handled by the POST function below
 
 // Test function to verify Gemini integration
-export async function testGeminiIntegration() {
+async function testGeminiIntegration() {
   try {
     console.log('🧪 Testing Gemini integration...');
     
